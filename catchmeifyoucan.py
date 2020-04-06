@@ -1,4 +1,3 @@
-#!/bin/bash
 #Author memN0ps
 
 from pwn import *
