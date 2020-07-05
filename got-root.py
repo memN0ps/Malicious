@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python
 #Author memN0ps
 
 import struct
