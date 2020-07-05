@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #Author memN0ps
 
 from pwn import *
